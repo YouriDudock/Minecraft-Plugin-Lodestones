@@ -1,0 +1,11 @@
+lodestone\LodestonePlugin.class
+lodestone\LodestoneWorld.class
+lodestone\event\OnPlayerLogEvent.class
+lodestone\binder\PluginBinderModule.class
+lodestone\LodestonePlayer.class
+lodestone\LodestoneManager.class
+lodestone\LodestoneConfiguration.class
+lodestone\LodestoneInterface.class
+lodestone\LodestoneManager$1.class
+lodestone\event\PlayerInteractBlock.class
+lodestone\event\commands\AdminCommand.class
